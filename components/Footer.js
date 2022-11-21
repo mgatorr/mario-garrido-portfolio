@@ -11,7 +11,7 @@ const Footer = () => {
                         <a
                             href="#"
                             className={"transition-colors hover:text-yellow-500"}
-                            target="_blank"
+                            target="https://twitter.com/mgatorr"
                             rel="noreferrer"
                         >
                             Twitter
@@ -19,7 +19,7 @@ const Footer = () => {
                         <a
                             href="#"
                             className={"transition-colors hover:text-yellow-500"}
-                            target="_blank"
+                            target="https://www.linkedin.com/in/mgarridotorres/"
                             rel="noreferrer"
                         >
                             LinkedIn
@@ -27,7 +27,7 @@ const Footer = () => {
                         <a
                             href="#"
                             className={"transition-colors hover:text-yellow-500"}
-                            target="_blank"
+                            target="https://github.com/MarioGT90k"
                             rel="noreferrer"
                         >
                             GitHub
@@ -35,7 +35,7 @@ const Footer = () => {
                         <a
                             href="#"
                             className={"transition-colors hover:text-yellow-500"}
-                            target="_blank"
+                            target="https://dev.to/mariogt"
                             rel="noreferrer"
                         >
                             DEV
