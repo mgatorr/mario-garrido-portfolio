@@ -1,5 +1,6 @@
 import Link from "next/link"
 import React from "react"
+import ThemeSwitch from "./ThemeSwitch"
 
 const Navigation = () => {
     return (
@@ -12,6 +13,7 @@ const Navigation = () => {
                         Mario Garrido
                     </a>
                 </Link>
+                <ThemeSwitch />
             </div>
         </div>
     )
