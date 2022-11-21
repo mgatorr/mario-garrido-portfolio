@@ -9,33 +9,33 @@ const Footer = () => {
                     <p>By Mario Garrido</p>
                     <div className="flex flex-wrap pt-2 sm:space-x-4 space-x-2 font-medium lg:pt-0">
                         <a
-                            href="#"
+                            target="_blank"
                             className={"transition-colors hover:text-yellow-500"}
-                            target="https://twitter.com/mgatorr"
+                            href="https://twitter.com/mgatorr"
                             rel="noreferrer"
                         >
                             Twitter
                         </a>
                         <a
-                            href="#"
+                            target="_blank" 
                             className={"transition-colors hover:text-yellow-500"}
-                            target="https://www.linkedin.com/in/mgarridotorres/"
+                            href="https://www.linkedin.com/in/mgarridotorres/"
                             rel="noreferrer"
                         >
                             LinkedIn
                         </a>
                         <a
-                            href="#"
+                            target="_blank" 
                             className={"transition-colors hover:text-yellow-500"}
-                            target="https://github.com/MarioGT90k"
+                            href="https://github.com/MarioGT90k"
                             rel="noreferrer"
                         >
                             GitHub
                         </a>
                         <a
-                            href="#"
+                            target="_blank"
                             className={"transition-colors hover:text-yellow-500"}
-                            target="https://dev.to/mariogt"
+                            href="https://dev.to/mariogt"
                             rel="noreferrer"
                         >
                             DEV
