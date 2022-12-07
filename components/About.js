@@ -12,7 +12,7 @@ const About = () => {
           </h1>
           <div className="mt-6 text-gray-800 dark:text-white">
             <p className="mb-4">
-              My name is Mario Garrido; I&#39;m a tech enthusiastic and I&#39;ve been working as a software engineer in different roles for about six years, like tech lead, backend, web3, &#34;fullstack&#34; etc...
+              My name is Mario Garrido; I{"'"}m a tech enthusiastic and I{"'"}ve been working as a software engineer in different roles for about six years, like tech lead, backend, web3, {'"'}fullstack{'"'} etc...
             </p>
             <p className="mb-4">
               This website is under construction. Please let me a few more commits to finishing it.
