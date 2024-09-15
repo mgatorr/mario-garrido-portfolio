@@ -19,7 +19,7 @@ const Navigation = () => {
       </div>
       <div className="container px-1 mx-auto lg:max-w-1xl flex items-center justify-between">
         <p className="text-neutral-400 text-base-sm">
-          Backend {">"} DevOps / Infrastructure {">"} Frontend
+          VP Lead software engineer at JPMorgan Chase & Co.
         </p>
       </div>
     </div>
