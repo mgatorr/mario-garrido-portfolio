@@ -13,7 +13,7 @@ const About = () => {
           <div className="mt-6 text-gray-800 dark:text-white">
             <p className="mb-4">
               My name is Mario Garrido; I{"'"}m a tech enthusiastic and I{"'"}ve been working as a software engineer in different roles for about eight years, like tech lead, backend, web3 and {'"'}fullstack{'"'}.
-              Now a days I{"'"}m working as a VP Lead software engineer at JPMorgan Chase & Co.
+              Nowadays I{"'"}m working as a VP Lead software engineer at JPMorgan Chase & Co.
             </p>
             <p className="mb-4">
               This website is under construction, but you can check my social media profiles or contact me through the links below.
