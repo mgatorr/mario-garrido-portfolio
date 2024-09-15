@@ -23,7 +23,7 @@ const About = () => {
           <Image
             src={profile}
             alt="Mario Garrido's Profile Picture"
-            priority
+            priority={true}
             className="rounded-full"
             width={250}
             height={250}
